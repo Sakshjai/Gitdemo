@@ -74,6 +74,7 @@ public class ServiceTests {
         assertTrue(serviceHomePageObj.IsLinkApplyNumberPlateDiplayed());
 
         System.out.println(">>>> Successfully Displayed Apply for a number plate link in Results ");
+        
 
         serviceHomePageObj.SelectLinkApplyNumberPlate();
 
