@@ -8,6 +8,7 @@ public class OpenClarity {
 		System.out.println ("Java2");
 		System.out.println ("Android");
 		System.out.println ("ios");
+		System.out.println ("ios1");
 		WebDriver driver = new ChromeDriver ();
 		
 	}
